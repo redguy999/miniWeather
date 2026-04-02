@@ -1,3 +1,4 @@
+.nfs*
 *.cmake
 cmake.*
 CMake*
